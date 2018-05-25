@@ -1,4 +1,6 @@
 FROM debian:latest
+#todo move it to alpine
+
 MAINTAINER zakkg3@gmail.com
 
 #Var OpenVPN
